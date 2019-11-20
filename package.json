@@ -1,0 +1,28 @@
+{
+  "name": "electron-starterkit",
+  "version": "1.0.0",
+  "description": "Minimal electron app for fast developing",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosipKardum/electron-starterkit.git"
+  },
+  "keywords": [
+    "Electron",
+    "start",
+    "starterkit",
+    "app"
+  ],
+  "author": "Josip Kardum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosipKardum/electron-starterkit/issues"
+  },
+  "homepage": "https://github.com/JosipKardum/electron-starterkit#readme",
+  "devDependencies": {
+    "electron": "^7.1.2"
+  }
+}
